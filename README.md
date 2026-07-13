@@ -46,7 +46,7 @@ A Power BI project showing the same business process from a management perspecti
 The project is focused on turning operational data into executive-level insights and business recommendations.
 
 **Tools:** Power BI, Power Query, DAX, data model, KPI reporting  
-**Repository:** [Power BI project repository](TU_WSTAW_LINK_DO_REPOZYTORIUM_PROJEKTU_2)  
+**Repository:** [Power BI project repository](https://github.com/BWiekiera/marketing-funding-program-performance-analysis)  
 **Case study:** [Portfolio project page](https://bwiekiera.github.io/portfolio/projects/project2.html)
 
 ---
