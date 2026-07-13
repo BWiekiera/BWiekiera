@@ -35,7 +35,7 @@ The project includes synthetic business data, Power Query data preparation, a da
 
 **Tools:** Excel, Power Query, Power Pivot, VBA, KPI dashboards  
 **Repository:** [marketing-funding-analytics](https://github.com/BWiekiera/marketing-funding-analytics)  
-**Case study:** [Portfolio project page](TU_WSTAW_LINK_DO_STRONY_PROJEKTU_1)
+**Case study:** [Portfolio project page](https://bwiekiera.github.io/portfolio/projects/project1.html)
 
 ---
 
@@ -47,7 +47,7 @@ The project is focused on turning operational data into executive-level insights
 
 **Tools:** Power BI, Power Query, DAX, data model, KPI reporting  
 **Repository:** [Power BI project repository](TU_WSTAW_LINK_DO_REPOZYTORIUM_PROJEKTU_2)  
-**Case study:** [Portfolio project page](TU_WSTAW_LINK_DO_STRONY_PROJEKTU_2)
+**Case study:** [Portfolio project page](https://bwiekiera.github.io/portfolio/projects/project2.html)
 
 ---
 
@@ -89,7 +89,7 @@ I believe data is valuable when it helps people understand a business situation 
 
 ## Contact
 
-- **Portfolio:** [bernardetawiekiera.pl](TU_WSTAW_LINK_DO_STRONY_PORTFOLIO)
+- **Portfolio:** [bwiekiera.github.io](https://bwiekiera.github.io/portfolio/index.html)
 - **LinkedIn:** [linkedin.com/in/bernardetawiekiera](https://www.linkedin.com/in/bernardetawiekiera/)
 - **GitHub:** [github.com/BWiekiera](https://github.com/BWiekiera)
 - **E-mail:** [b.wiekiera@interia.eu](mailto:b.wiekiera@interia.eu)
